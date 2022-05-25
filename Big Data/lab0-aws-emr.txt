@@ -1,4 +1,4 @@
-ST0263 TÓPICOS ESPECIALES EN TELEMÁTICA, 2021-2
+ST0263 TÓPICOS ESPECIALES EN TELEMÁTICA, 2022-1
 
 Requisito: CADA ESTUDIANTE, EN SU REPOSITORIO GITHUB PARA LA MATERIA, 
 DEBERÁ DOCUMENTAR Y ADJUNTAR TODAS LAS EVIDENCIAS DE LA REALIZACIÓN DE LOS LABORATORIOS DE BIG DATA.
@@ -8,13 +8,13 @@ DONDE TRABAJARÁ TODOS LOS LABS.
 
 LAB 0: Crear un Cluster AWS EMR en Amazon para trabajar todos los demás laboratorios.
 
-1. fecha máx de entrega: Jueves 4 de noviembre.
+1. Fecha máx de entrega: Sábado 28 de Mayo.
 
-2. trabajo individual, cada estudiante deberá responder por estas actividades.
+2. Trabajo individual, cada estudiante deberá responder por estas actividades.
 
-3. seguir los lineamientos del github:
+3. Seguir los lineamientos del github:
 
-https://github.com/st0263eafit/st026320212/tree/main/bigdata
+https://github.com/ST0263/st0263-2022-1/tree/main/Big%20Data
 
 HACER LAS ACTIVIDADES PROPUESTAS EN LOS VIDEOS:
 
